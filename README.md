@@ -3,7 +3,8 @@
 <br />
 
 ![Twitterda takip et](https://img.shields.io/twitter/follow/enesilhaydin?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/enesilhaydin/syslogsimulator)
+![GitHub En Son commit](https://img.shields.io/github/last-commit/enesilhaydin/syslogsimulator)
+![GitHub](https://img.shields.io/github/license/enesilhaydin/syslogsimulator)
 
 <br />
 
