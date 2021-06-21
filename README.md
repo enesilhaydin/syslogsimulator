@@ -57,6 +57,7 @@ Syslog Simulator için kullanılan örnek loglar https://github.com/elastic/beat
 ## ✔️Todo
 
 + çoklu kaynak gönderimi eklenmesi.
++ linux veya windows üzerinde çalıştırılma tespit fonksiyonu.
 + ~~udp/tcp port seçimi özelliğinin eklenmesi.~~
 + ~~default kaynak loglarının eklenmesi.~~
 + json/csv kaynaklarının parsing edilmesi.
