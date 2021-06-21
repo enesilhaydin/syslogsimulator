@@ -28,14 +28,14 @@ def printLogo():
     list=""
     for path, dirs, files in os.walk('logs'):
         for f in files:
-            parca=path.split('\\')
+            parca=path.split('/')
             #print(len(parca)> 2)
             if(len(parca)>2):
-                print("-- "+str(parca[1])+"\\"+parca[2]+"\\"+f)
+                print("-- "+str(parca[1])+"/"+parca[2]+"/"+f)
                 time.sleep(0.2)
                 #print(path.s
             if(len(parca)==2):
-                print("-- "+str(parca[1]) + "\\" + f)
+                print("-- "+str(parca[1]) + "/" + f)
                 time.sleep(0.2)
 
     print("\n ================================")
