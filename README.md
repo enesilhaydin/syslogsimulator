@@ -9,7 +9,7 @@
 <br />
 
 `syslogsimulator` hazır ürün loglarını SIEM veya log toplayıcısına istediğiniz portta belirli sürelerde göndermeyi sağlayan küçük bir araçtır. 
-
+[![asciicast](https://asciinema.org/a/8k6anolRuL8LXiljXovNij1el.svg)](https://asciinema.org/a/8k6anolRuL8LXiljXovNij1el)
 <br />
 
 ## 🚀Nedir
